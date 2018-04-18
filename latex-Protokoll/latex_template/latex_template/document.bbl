@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{couchbase}
+Getting comfortable with couchbase mobile: Sync gateway via the command line.
+\newblock
+  \url{https://blog.couchbase.com/getting-comfortable-with-couchbase-mobile-sync-gateway-via-the-command-line/},
+  February 2017.
+
+\bibitem{f_readwrite}
+Read and write data on android.
+\newblock
+  \url{https://firebase.google.com/docs/database/android/read-and-write}, April
+  2017.
+
+\bibitem{listdata}
+Working with firebase realtime database lists.
+\newblock
+  \url{http://www.techotopia.com/index.php/Working_with_Firebase_Realtime_Database_Lists},
+  August 2017.
+
+\bibitem{offline}
+Enabling offline capabilities on android.
+\newblock
+  \url{https://firebase.google.com/docs/database/android/offline-capabilities},
+  April 2018.
+
+\end{thebibliography}
